@@ -1,13 +1,7 @@
-module.exports = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  
   reactStrictMode: true,
-  async redirects() {
-    return [
-      {
-        source: '/admin/:path*',
-        destination: 'https://sanity-nextjs-js-boilerplate.sanity.studio',
-        permanent: true,
-      },
-    ]
-  }
-
 }
+
+module.exports = nextConfig

@@ -10164,9 +10164,9 @@ sanity-diff-patch@^1.0.9:
   dependencies:
     diff-match-patch "^1.0.5"
 
-"sanitynextjsjsboilerplate@file:C:\\Users\\Saheed\\Downloads\\sanity-nextjs-js-boilerplate-main\\sanity-nextjs-js-boilerplate-main\\studio":
+"sanitynextjsjsboilerplate@file:C:\\Users\\Saheed\\Downloads\\sanity-nextjs-js-boilerplate-main\\sanity-nextjs-js-boilerplate-main\\sanity-backend":
   version "1.0.0"
-  resolved "file:studio"
+  resolved "file:sanity-backend"
   dependencies:
     "@sanity/base" "^2.22.3"
     "@sanity/core" "^2.22.3"
