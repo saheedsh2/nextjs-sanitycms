@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className='navbar-container'>
       <p className='logo'>
         <Link href={'/'}>
-          Mosh Technologies
+          Mosh Technologies | BuiltbySaheed
         </Link>
       </p>
       <button type='button' className='cart-icon' onClick={() => setShowCart(true)}>
