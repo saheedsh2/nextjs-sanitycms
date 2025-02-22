@@ -1287,11 +1287,6 @@
     get-random-values "^1.2.2"
     lodash "^4.17.15"
 
-"@sanity/cli@^2.22.3":
-  version "2.22.3"
-  resolved "https://registry.npmjs.org/@sanity/cli/-/cli-2.22.3.tgz"
-  integrity sha512-QP72bcV0vNn2rez2V9jJ1bOokk6d73vCGc7VgAaVVvPIWGqH6T29hfBABHT4Ir4hXtwdV7dj5kiNmW4JFb8Qcg==
-
 "@sanity/client@^2.0.0", "@sanity/client@2.22.3":
   version "2.22.3"
   resolved "https://registry.npmjs.org/@sanity/client/-/client-2.22.3.tgz"
@@ -10164,7 +10159,7 @@ sanity-diff-patch@^1.0.9:
   dependencies:
     diff-match-patch "^1.0.5"
 
-"sanitynextjsjsboilerplate@file:C:\\Users\\Saheed\\Downloads\\sanity-nextjs-js-boilerplate-main\\sanity-nextjs-js-boilerplate-main\\sanity-backend":
+"sanitynextecommerce@file:C:\\Users\\Saheed\\Downloads\\sanity-nextjs-js-boilerplate-main\\sanity-nextjs-js-boilerplate-main\\sanity-backend":
   version "1.0.0"
   resolved "file:sanity-backend"
   dependencies:
