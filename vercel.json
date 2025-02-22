@@ -1,3 +1,7 @@
 {
-    "framework": "nextjs"
+    "framework": "nextjs",
+    "build": {
+      "command": "npm run build",
+      "ignore": ["studio/**"]
+    }
   }
