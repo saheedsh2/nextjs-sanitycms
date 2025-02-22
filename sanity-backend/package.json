@@ -1,14 +1,14 @@
 {
-  "name": "sanitynextjsjsboilerplate",
+  "name": "sanitynextecommerce",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Jakub Siwiec <jakub.siwiec@svcais.com>",
+  "author": "Saheed Shittu <saheedsh2@gmail.com.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
-    "build": "sanity build ../public/studio -y",
+    "build": "sanity build",
     "deploy": "sanity deploy"
   },
   "keywords": [
